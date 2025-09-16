@@ -11,7 +11,5 @@ int main()
 	int PrintNum = 1;
 	std::cout << PrintNum << std::endl;
 
-	std::cout << "Commit" << std::endl;
-
 	return 0;
 }
